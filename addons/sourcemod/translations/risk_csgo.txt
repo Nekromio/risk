@@ -1,0 +1,21 @@
+"Phrases"
+{
+	"Caused a risk"
+	{
+		"#format"    "{1:s}"
+		"en"	"{red}[{purple}SM{red}] {blue}{1} {red}caused a risk !"
+		"ru"	"{red}[{purple}SM{red}] {blue}{1} {red}вызвал риску !"
+	}
+	
+	"Print announce"
+	{
+		"en"		"{green}[{DEFAULT}SM{green}] In the chat !risk for setting risks(tags)"
+		"ru"		"{green}[{DEFAULT}SM{green}] В чат !risk для устновки риски(метки)"
+	}
+	
+	"Caused a risk client"
+	{
+		"en"	"{red}[{purple}SM{red}] {blue}You {red}caused a risk !"
+		"ru"	"{red}[{purple}SM{red}] {blue}Вы {red}установили риску !"
+	}
+}

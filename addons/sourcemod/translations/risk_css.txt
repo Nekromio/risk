@@ -1,0 +1,21 @@
+"Phrases"
+{
+	"Caused a risk"
+	{
+		"#format"    "{1:s}"
+		"en"	"{#ff0000}[{#ff00ff}SM{#ff0000}] {#3366ff}{1} {#ff0000}caused a risk !"
+		"ru"	"{#ff0000}[{#ff00ff}SM{#ff0000}] {#3366ff}{1} {#ff0000}вызвал риску !"
+	}
+	
+	"Print announce"
+	{
+		"en"		"{#00cc66}[{#ffff66}SM{#00cc66}] In the chat !risk for setting risks(tags)"
+		"ru"		"{#00cc66}[{#ffff66}SM{#00cc66}] В чат !risk для устновки риски(метки)"
+	}
+	
+	"Caused a risk client"
+	{
+		"en"	"{#ff0000}[{#ff00ff}SM{#ff0000}] {#3366ff}You {#ff0000}caused a risk !"
+		"ru"	"{#ff0000}[{#ff00ff}SM{#ff0000}] {#3366ff}Вы {#ff0000}установили {#00cc66}риску !"
+	}
+}
