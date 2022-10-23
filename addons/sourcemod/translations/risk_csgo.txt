@@ -2,7 +2,7 @@
 {
 	"Caused a risk"
 	{
-		"#format"    "{1:s}"
+		"#format"    "{1:N}"
 		"en"	"{red}[{purple}SM{red}] {blue}{1} {red}caused a risk !"
 		"ru"	"{red}[{purple}SM{red}] {blue}{1} {red}вызвал риску !"
 	}
