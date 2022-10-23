@@ -39,35 +39,6 @@ sm_risk_soundall "1"
 // After how many seconds
 will the sm_risk_timer "2.0" risk disappear
 
-Available buttons:
-
-case 0: BUTTONS = IN_USE; //Button E
-case 1: BUTTONS = IN_JUMP; //Jump button
-case 2: BUTTONS = IN_ATTACK; //PCM
-case 3: BUTTONS =IN_DUCK; //CTRL
-case 4: BUTTONS=IN_FORWARD; //W
-case 5: BUTTONS=IN_BACK; //S
-case 6: BUTTONS= IN_ATTACK3; //SCM
-case 7: BUTTONS = IN_CANCEL; //
-case 8: BUTTONS = IN_LEFT; //
-Case 9: BUTTONS = IN_RIGHT; //D
-case 10: BUTTONS = IN_MOVELEFT; //
-case 11: BUTTONS = IN_MOVERIGHT; //
-case 12: BUTTONS = IN_ATTACK2; //
-case 13: BUTTONS = IN_RUN; //
-case 14: BUTTONS = IN_RELOAD; //
-case 15: BUTTONS = IN_ALT1; //
-case 16: BUTTONS = IN_ALT2; //
-case 17: BUTTONS = IN_SCORE; //Tab button (viewing the list of players)
-case 18: BUTTONS = IN_SPEED; //
-case 19: BUTTONS = IN_WALK; //
-case 20: BUTTONS = IN_ZOOM; //
-case 21: BUTTONS = IN_WEAPON1; //
-case 22: BUTTONS = IN_WEAPON2; //
-case 23: BUTTONS = IN_BULLRUSH; //
-case 24: BUTTONS = IN_GRENADE1; //
-Case 25: BUTTONS = IN_GRENADE2; //
-
 /********************************************************************************/
 
 RU:
@@ -109,29 +80,54 @@ sm_risk_timer "2.0"
 
 Доступные кнопки:
 
-case 0: BUTTONS = IN_USE;                //Кнопка E
-case 1: BUTTONS = IN_JUMP;                //Кнопка прыжок
-case 2: BUTTONS = IN_ATTACK;            //ПКМ
-case 3: BUTTONS = IN_DUCK;                //CTRL
-case 4: BUTTONS = IN_FORWARD;            //W
-case 5: BUTTONS = IN_BACK;                //S
-case 6: BUTTONS = IN_ATTACK3;            //СКМ
-case 7: BUTTONS = IN_CANCEL;            //
-case 8: BUTTONS = IN_LEFT;                //A
-case 9: BUTTONS = IN_RIGHT;                //D
-case 10: BUTTONS = IN_MOVELEFT;            //
-case 11: BUTTONS = IN_MOVERIGHT;        //
-case 12: BUTTONS = IN_ATTACK2;            //
-case 13: BUTTONS = IN_RUN;                //
-case 14: BUTTONS = IN_RELOAD;            //
-case 15: BUTTONS = IN_ALT1;                //
-case 16: BUTTONS = IN_ALT2;                //
-case 17: BUTTONS = IN_SCORE;            //Кнопка TAB (просмотр списка игроков)
-case 18: BUTTONS = IN_SPEED;            //
-case 19: BUTTONS = IN_WALK;                //
-case 20: BUTTONS = IN_ZOOM;                //
-case 21: BUTTONS = IN_WEAPON1;            //
-case 22: BUTTONS = IN_WEAPON2;            //
-case 23: BUTTONS = IN_BULLRUSH;            //
-case 24: BUTTONS = IN_GRENADE1;            //
-case 25: BUTTONS = IN_GRENADE2;            //
+0: IN_USE;	//Кнопка E
+
+1: IN_JUMP;	//Кнопка прыжок
+
+2: IN_ATTACK;	//ПКМ
+
+3: IN_DUCK;	//CTRL
+
+4: IN_FORWARD;	//W
+
+5: IN_BACK;	//S
+
+6: IN_ATTACK3;	//СКМ
+
+7: IN_CANCEL;	//
+
+8: IN_LEFT;	//A
+
+9: IN_RIGHT;	//D
+
+10: IN_MOVELEFT;	//
+
+11: IN_MOVERIGHT;	//
+
+12: IN_ATTACK2;	//
+
+13: IN_RUN;	//
+
+14: IN_RELOAD;	//
+
+15: IN_ALT1;	//
+
+16: IN_ALT2;	//
+
+17: IN_SCORE;	//Кнопка TAB (просмотр списка игроков)
+
+18: IN_SPEED;	//
+
+19: IN_WALK;	//
+
+20: IN_ZOOM;	//
+
+21: IN_WEAPON1;	//
+
+22: IN_WEAPON2;	//
+
+23: IN_BULLRUSH;	//
+
+24: IN_GRENADE1;	//
+
+25: IN_GRENADE2;	//
