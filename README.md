@@ -69,6 +69,7 @@ case 24: BUTTONS = IN_GRENADE1; //
 Case 25: BUTTONS = IN_GRENADE2; //
 
 /********************************************************************************/
+
 RU:
 Плагин позволяет на кнопку или команду устанавливать метки для своей команды.
 В чат !r !risk
@@ -109,9 +110,13 @@ sm_risk_timer "2.0"
 Доступные кнопки:
 
 case 0: BUTTONS = IN_USE;                //Кнопка E
+
 case 1: BUTTONS = IN_JUMP;                //Кнопка прыжок
+
 case 2: BUTTONS = IN_ATTACK;            //ПКМ
+
 case 3: BUTTONS = IN_DUCK;                //CTRL
+
 case 4: BUTTONS = IN_FORWARD;            //W
 case 5: BUTTONS = IN_BACK;                //S
 case 6: BUTTONS = IN_ATTACK3;            //СКМ
